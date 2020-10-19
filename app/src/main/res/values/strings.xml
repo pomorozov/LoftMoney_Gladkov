@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Loftmoney</string>
+    <string name="expense_hint">Расход</string>
+    <string name="expense_name_hint">Название</string>
+    <string name="expense_action_add">Добавить</string>
+    <string name="welcome_login">Войти</string>
+    <string name="connection_lost">Sorry, we can\'t load your money list</string>
+    <string name="add_money">Add Income</string>
+    <string name="fill_fields">Please fill all fields</string>
+    <string name="success_added">Income was successfully added</string>
+    <string name="action_login">Войти</string>
+</resources>
