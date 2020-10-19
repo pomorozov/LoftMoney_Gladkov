@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         configureViews();
         configureViewModel();
     }
-
+    //Чего то я тут не добавил
     @Override
     protected void onResume() {
         super.onResume();
